@@ -1,1 +1,1 @@
-# Embedded-system-activity-5
+performing of a memory test is necessary so that we can confirm that each storage location in a memory device is working. memory testing is performed when prototype hardware is ready and the designer needs to verify that address and data lines are correctly wired and memory chips are working properly.
